@@ -1,0 +1,44 @@
+	.array_key
+		{
+			font-weight: bold;
+			color: red;
+		}
+		.array_value
+		{
+			color: green;
+		}
+		.array_value span
+		{
+			font-weight: bold;
+			color: blue;
+
+		}
+		.array_value mark
+		{
+			font-weight: bold;
+			color: orange;
+			font-size: 16px;
+		}
+		.array_value quote
+		{
+			color:darkred;
+			font-size: 18px;
+			font-weight: bold;
+		}
+		.array_value attrvalue
+		{
+			color:red;
+			font-weight: bold;
+		}
+		.array_value tag
+		{
+			color:yellowgreen;
+			font-weight: bold;
+
+		}
+		.array_value attr
+		{
+			color:blue;
+			font-weight: bold;
+
+		}
